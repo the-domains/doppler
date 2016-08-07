@@ -1,0 +1,28 @@
+name: Doppler
+favicon: null
+layout_spectrum: 0.9685214653145522
+typography_spectrum: 0.5220404400024563
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.53391287708655
+  lightness: 0.4513073321431875
+  saturation: 0.9767289527226239
+  rhythmicContrast: 0.2971834591589868
+purpose: []
