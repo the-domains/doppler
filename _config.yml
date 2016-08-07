@@ -2,6 +2,7 @@ name: Doppler
 favicon: null
 layout_spectrum: 0.9685214653145522
 typography_spectrum: 0.5220404400024563
+title: 'Doppler, music for visual arts.'
 cta:
   domain: null
   bucket: null
